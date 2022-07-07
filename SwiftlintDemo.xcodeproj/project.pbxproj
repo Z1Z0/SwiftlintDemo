@@ -15,6 +15,7 @@
 		E13562D62875ADE30066CF64 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E13562D52875ADE30066CF64 /* HomeViewController.xib */; };
 		E13562D92875B0560066CF64 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13562D72875B0560066CF64 /* DetailsViewController.swift */; };
 		E13562DA2875B0560066CF64 /* DetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E13562D82875B0560066CF64 /* DetailsViewController.xib */; };
+		E1830C80287729F800260CCF /* CreateNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1830C7F287729F800260CCF /* CreateNote.swift */; };
 		E1AB9D08287707C60079F579 /* DumbData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AB9D07287707C60079F579 /* DumbData.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		E13562D52875ADE30066CF64 /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
 		E13562D72875B0560066CF64 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		E13562D82875B0560066CF64 /* DetailsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailsViewController.xib; sourceTree = "<group>"; };
+		E1830C7F287729F800260CCF /* CreateNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateNote.swift; sourceTree = "<group>"; };
 		E1AB9D07287707C60079F579 /* DumbData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DumbData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,6 +71,7 @@
 				E13562D72875B0560066CF64 /* DetailsViewController.swift */,
 				E13562D82875B0560066CF64 /* DetailsViewController.xib */,
 				E1AB9D07287707C60079F579 /* DumbData.swift */,
+				E1830C7F287729F800260CCF /* CreateNote.swift */,
 				E11521B7286C30C1006B2A59 /* Assets.xcassets */,
 				E11521B9286C30C1006B2A59 /* LaunchScreen.storyboard */,
 				E11521BC286C30C1006B2A59 /* Info.plist */,
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1AB9D08287707C60079F579 /* DumbData.swift in Sources */,
+				E1830C80287729F800260CCF /* CreateNote.swift in Sources */,
 				E11521B3286C30BF006B2A59 /* HomeViewController.swift in Sources */,
 				E11521AF286C30BF006B2A59 /* AppDelegate.swift in Sources */,
 				E11521B1286C30BF006B2A59 /* SceneDelegate.swift in Sources */,
